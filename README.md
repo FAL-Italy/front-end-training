@@ -1,7 +1,5 @@
 # Trials and Tests on HTML, CSS and JavaScript
 
-This is a solution to the . Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -14,15 +12,15 @@ This starts as a collection of Frontend Mentor solutions, but it will expand to 
 
 ### The Folders:
 - Challenge: [Order summary card](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj)
-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
+- - Solution URL: [https://github.com/FAL-Italy/front-end-training/tree/main/order-summary-component](https://github.com/FAL-Italy/front-end-training/tree/main/order-summary-component)
 - Challenge: [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
+- - Solution URL: [https://github.com/FAL-Italy/front-end-training/tree/main/qr-code-component](https://github.com/FAL-Italy/front-end-training/tree/main/qr-code-component)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@fal](https://www.frontendmentor.io/profile/fal)
+- Website - [https://www.facebook.com/Francesco.FAL](https://www.facebook.com/Francesco.FAL)
+- Frontend Mentor - [@FAL-Italy](https://www.frontendmentor.io/profile/FAL-Italy)
 
 
 ## Acknowledgments
