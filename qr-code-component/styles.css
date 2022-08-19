@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+:root {
+  --light-gray: hsl(212, 45%, 89%);
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* così calcola la dimensione del box COMPRENDENDO il padding, non AGGIUNGENDOCELO! */
+}
+
+body {
+  background-color: var(--light-gray);
+  font-family: 'Outfit', sans-serif;
+  font-size: 15px;
+}
+
+.qr-card {
+  margin: 40px 60px;
+  width: 320px;
+  background-color: white;
+  color: var(--grayish-blue);
+  border-radius: 16px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.caption {
+  color: var(--dark-blue);
+  font-weight: 700;
+  font-size: 22px;
+  margin-top: 10px;
+  margin-bottom: 12px;
+  margin-left: 28px;
+  margin-right: 28px;
+  line-height: 25px;
+}
+
+.explain {
+  margin-top: 15px;
+  margin-bottom: 40px;
+  margin-left: 28px;
+  margin-right: 28px;
+  line-height: 18px;
+}
+
+.qr-image {
+  width: 90%;
+  margin: 15px;
+  border-radius: 8px;
+}
+
+
+.attribution { font-size: 11px; text-align: left; margin: auto 80px; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
