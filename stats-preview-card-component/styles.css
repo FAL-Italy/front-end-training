@@ -1,0 +1,105 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+:root {
+  --paragraph-white: hsla(0, 0%, 100%, 0.75);
+  --stat-heading-white: hsla(0, 0%, 100%, 0.6);
+  --soft-violet: hsl(277, 64%, 61%);
+  --dark-desaturated-blue: hsl(244, 38%, 16%);
+  --very-dark-blue: hsl(233, 47%, 7%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* così calcola la dimensione del box COMPRENDENDO il padding, non AGGIUNGENDOCELO! */
+}
+
+body {
+  background-color: var(--very-dark-blue);
+}
+
+.card {
+  margin: 50px auto;
+  padding: 20px;
+  width: 1110px;
+  display: flex;
+  flex-direction: row;
+  background-color: var(--dark-desaturated-blue);
+  color: var(--paragraph-white);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.text-block {
+  margin: 50px;
+  flex-direction: column;
+  width: 50%
+}
+
+.caption {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.explain {
+  font-size: 14px;
+  line-height: 20px;
+  margin-right: 100px;
+}
+
+.container {
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 18px;
+}
+
+.stats-block {
+  flex-direction: column;
+}
+
+.stats {
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.stats-title {
+  font-size: 14px;
+  padding-top: 0;
+  margin-top: 0;
+  color: var(--stat-heading-white);
+}
+
+.photo {
+  padding: 0;
+  margin:0;
+}
+
+.plan-container {
+  font-size: 16px;
+  background-color: var(--very-pale-blue);
+  padding: 25px;
+  width: 100%;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.plan-container strong {
+  color: var(--dark-blue)
+}
+
+.attribution {
+  color:  var(--paragraph-white);
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+
