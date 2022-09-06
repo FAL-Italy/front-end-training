@@ -15,6 +15,8 @@ This starts as a collection of Frontend Mentor solutions, but it will expand to 
 - - Solution URL: [https://github.com/FAL-Italy/front-end-training/tree/main/order-summary-component](https://github.com/FAL-Italy/front-end-training/tree/main/order-summary-component)
 - Challenge: [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 - - Solution URL: [https://github.com/FAL-Italy/front-end-training/tree/main/qr-code-component](https://github.com/FAL-Italy/front-end-training/tree/main/qr-code-component)
+- Challenge: [stats preview card component](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+- - Solution URL: [https://github.com/FAL-Italy/front-end-training/tree/main/stats-preview-card-component](https://github.com/FAL-Italy/front-end-training/tree/main/stats-preview-card-component)
 
 
 ## Author
